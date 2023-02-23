@@ -1,0 +1,26 @@
+img{
+    border-radius: 50%;width: 100px;
+    height: 95px;margin-left: 25%;  
+}
+
+article{
+    
+    width: 20%;float: left;
+    margin-left: 10%;margin-top: 6% 
+}
+
+.bianca{
+
+}
+
+p{ 
+    background-color:ghostwhite;
+font-size: 20;font-family: calibri;   
+}
+
+h4{ margin-left: 25%; 
+}
+
+h2{
+   font-family: arial;font-size: 44;
+}
